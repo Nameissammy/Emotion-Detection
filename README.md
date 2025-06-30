@@ -1,4 +1,4 @@
-# Emotion_detection
+# Emotion-Detection
 Simple Emotion_Detection using Machine Learning
 
 To use our Emotion Detection Model
